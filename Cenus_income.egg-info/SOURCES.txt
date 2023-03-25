@@ -1,8 +1,0 @@
-README.md
-setup.py
-Cenus-income/__init__.py
-Cenus_income.egg-info/PKG-INFO
-Cenus_income.egg-info/SOURCES.txt
-Cenus_income.egg-info/dependency_links.txt
-Cenus_income.egg-info/requires.txt
-Cenus_income.egg-info/top_level.txt
